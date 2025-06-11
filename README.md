@@ -17,7 +17,9 @@ This project features a ready-to-use web app built with Streamlit that provides 
 
 ## 🚀 Live Demo
 
-> [Try the App Live on Streamlit Cloud](#)  
+> [Try the App Live on Streamlit Cloud](#)
+> https://car-insurance-predictor-ks.streamlit.app
+
 
 
 ---
